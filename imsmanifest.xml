@@ -1,0 +1,147 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="TIFY_MODULE" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">TIFY MODULE</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="TIFY_MODULE_ORG">
+    <organization identifier="TIFY_MODULE_ORG">
+      <title>TIFY MODULE</title>
+      <item identifier="TIFY_MODULE_SCO" isvisible="true" identifierref="_TIFY_MODULE_RES">
+        <title>TIFY MODULE</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="_TIFY_MODULE_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="mobile/6aUYn2s1FCq_DX2560_DY2560_CX1280_CY720.png" />
+      <file href="mobile/5eVmVfEfckI_DX220_DY220_CX109_CY110.png" />
+      <file href="mobile/6hyTVqH0IIQ_DX220_DY220_CX67_CY110.png" />
+      <file href="mobile/5yITLcxOAGN_DX238_DY238_CX111_CY119.png" />
+      <file href="mobile/5lNcehnrYbf_DX250_DY250_CX115_CY125.png" />
+      <file href="story_content/6o74otxGUFM_44100_160_0.mp3" />
+      <file href="mobile/6Ga9RCuEBU9_DX208_DY208_CX156_CY155.png" />
+      <file href="mobile/5YIm6cgenlA_DX176_DY176_CX132_CY132.png" />
+      <file href="mobile/6QMbvQRujzg_DX122_DY122_CX86_CY91.png" />
+      <file href="mobile/5rvHWaAteCg_DX104_DY104_CX73_CY76.png" />
+      <file href="mobile/5eVmVfEfckI_DX220_DY220_CX76_CY77.png" />
+      <file href="mobile/6hyTVqH0IIQ_DX220_DY220_CX48_CY78.png" />
+      <file href="mobile/5yITLcxOAGN_DX238_DY238_CX78_CY84.png" />
+      <file href="mobile/5lNcehnrYbf_DX250_DY250_CX81_CY88.png" />
+      <file href="mobile/5aZo9ZLB5Ij_DX98_DY98_CX72_CY69.png" />
+      <file href="mobile/6IljqJYYf3T_DX98_DY98_CX72_CY69.png" />
+      <file href="mobile/5X4f5KjXXKQ_DX422_DY422_CX315_CY175.png" />
+      <file href="mobile/6lKamwhVAvC_DX96_DY96_CX70_CY72.png" />
+      <file href="mobile/6rjyf8E4Aeb_DX140_DY140_CX70_CY68.png" />
+      <file href="mobile/6NUMvufLCPZ_DX2556_DY2556_CX1278_CY534.png" />
+      <file href="mobile/5o3pSm4Gqvv_DX2240_DY2240_CX1189_CY543.png" />
+      <file href="story_content/video_6ZyDmAU3FvT_18_160_116x130.mp4" />
+      <file href="mobile/poster_5tXXCJeVrxp_video_6ZyDmAU3FvT_18_160_116x130.jpg" />
+      <file href="mobile/64lwhQAUF0r_DX260_DY260_CX175_CY194.png" />
+      <file href="mobile/6paN6nWwkg5_DX146_DY146_CX109_CY107.png" />
+      <file href="mobile/poster_6K5MkHhP9rp_video_6ZyDmAU3FvT_18_160_116x130.jpg" />
+      <file href="mobile/6lvRJuoQ2GH_DX2560_DY2560_CX1280_CY680.png" />
+      <file href="mobile/6rjyf8E4Aeb_X_DX140_DY140_CX70_CY68.png" />
+      <file href="story_content/video_5jXmKGRyXBS_18_160_1048x590.mp4" />
+      <file href="mobile/poster_6m4wmeCjU7P_video_5jXmKGRyXBS_18_160_1048x590.jpg" />
+      <file href="mobile/649cLychJju_DX2560_DY2560_CX1280_CY680.png" />
+      <file href="story_content/video_6iq43K7WeK0_18_160_480x590.mp4" />
+      <file href="mobile/poster_6CvenY3UoPa_video_6iq43K7WeK0_18_160_480x590.jpg" />
+      <file href="mobile/6dGxYYbQ6pW_X_DX522_DY522_CX391_CY204.png" />
+      <file href="story_content/video_6kwMf70XLCs_18_160_416x228.mp4" />
+      <file href="mobile/poster_6b4wdGUqXga_video_6kwMf70XLCs_18_160_416x228.jpg" />
+      <file href="story_content/video_6IR26HHu8Ln_18_160_118x130.mp4" />
+      <file href="mobile/poster_6PCJVHNbHJJ_video_6IR26HHu8Ln_18_160_118x130.jpg" />
+      <file href="mobile/6CnL9rAWjdV_DX260_DY260_CX175_CY194.png" />
+      <file href="story_content/video_5cFIdQuXTWb_18_160_1046x588.mp4" />
+      <file href="mobile/poster_6Own8bJ5OmM_video_5cFIdQuXTWb_18_160_1046x588.jpg" />
+      <file href="story_content/video_6QpEvmVyt4t_18_160_118x130.mp4" />
+      <file href="mobile/poster_5fxwLswU8gS_video_6QpEvmVyt4t_18_160_118x130.jpg" />
+      <file href="mobile/63zo2NEvgT7_DX260_DY260_CX175_CY194.png" />
+      <file href="mobile/poster_6VfWavb7iaa_video_6kwMf70XLCs_18_160_416x228.jpg" />
+      <file href="mobile/poster_6kkcGcLFISF_video_6iq43K7WeK0_18_160_480x590.jpg" />
+      <file href="mobile/5pcM2GLfneX_P_0_0_1280_588_DX2560_DY2560_CX1280_CY588.png" />
+      <file href="mobile/6mvcKzrUrdh_DX2350_DY2350_CX1280_CY170.png" />
+      <file href="meta.xml" />
+      <file href="story_content/user.js" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5emwwflyxoh.js" />
+      <file href="html5/data/js/5gUSAa5snAO.js" />
+      <file href="html5/data/js/5lcDL9ZB8Ky.js" />
+      <file href="html5/data/js/5oaglvMW61V.js" />
+      <file href="html5/data/js/5Yz5QIGmzew.js" />
+      <file href="html5/data/js/5zz8fdDRrrE.js" />
+      <file href="html5/data/js/66lPFaXy9Pk.js" />
+      <file href="html5/data/js/6iDYPwFYLvG.js" />
+      <file href="html5/data/js/6Lk3QCBvYrD.js" />
+      <file href="html5/data/js/6oud7tDEHjL.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/scripts/bootstrapper.min.js" />
+      <file href="html5/lib/scripts/frame.desktop.min.js" />
+      <file href="html5/lib/scripts/frame.mobile.min.js" />
+      <file href="html5/lib/scripts/slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
